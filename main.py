@@ -27,7 +27,7 @@ openai.api_key = OPENAI_KEY
 
 # Configure Elevenlabs API
 user = ElevenLabsUser(ELEVENLABS_KEY)
-voice = user.get_voices_by_name("Bella")[0]
+voice = user.get_voices_by_name(VOICE)[0]
 
 # Check the number of characters left in Elevenlabs API
 request = requests.get('https://api.elevenlabs.io/v1/user',
