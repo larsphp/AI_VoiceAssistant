@@ -1,0 +1,3 @@
+ELEVENLABS_API_KEY = 
+OPENAI_API_KEY = 
+# Get your API keys from https://www.beta.elevenlabs.io/ and https://www.openai.com/

@@ -1,0 +1,5 @@
+VOICE=Bella
+SYSTEM_PROMPT=
+# System prompt is optional, leave empty to not use a system prompt. Do not use '=' or line breaks in the system prompt.
+# More about system prompts: https://platform.openai.com/docs/guides/chat/introduction
+# Voices provided by Elevenlabs are: Adam, Antoni, Josh, Arnold, Sam (Male) and Bella, Elli, Rachel, Domi (Female).
