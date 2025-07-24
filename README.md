@@ -17,7 +17,7 @@ OpenAI's API has a free trial of $5 for 3 months, after that it costs money (ver
 
 The set up is simple:
 
-- Write you'r API Keys into the "keys.txt" file.
+- Write your API Keys into the "keys.txt" file.
 - Optionally make some configurations in the "config.txt" file. You can select the ElevenLabs langauge and set a system prompt.
 - Start the "main.py" script.
 
